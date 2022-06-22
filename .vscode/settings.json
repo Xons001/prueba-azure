@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/19c6ec35-03ca-4074-b979-103e5e4fd017/microsoft.web/sites/subscriptions/19c6ec35-03ca-4074-b979-103e5e4fd017/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/azure-prueba",
+    "appService.deploySubpath": "."
+}
